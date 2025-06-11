@@ -26,6 +26,10 @@ O **Quadro Falante** é um painel físico com:
 Esses elementos trabalham juntos para **formar palavras**, exibi-las em tempo real e reproduzi-las em áudio. Assim, mesmo pessoas que não conseguem falar ou escrever podem se comunicar ou aprender de forma lúdica e sensorial.
 
 ---
+![image](https://github.com/user-attachments/assets/55906e4f-4dcc-4263-aa5f-226f92398f81)
+
+---
+
 
 ## ⚙️ Componentes e Funcionamento
 
